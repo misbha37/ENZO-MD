@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐄𝐍𝐙𝐎+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐍𝐙𝐎)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://i.ibb.co/2PMz2VZ/IMG-20241019-WA0222.jpg" width="500" height="500" />
+<p align="centre"><img src="https://i.ibb.co/PwHcqYz/IMG-20241211-WA0065.jpg" width="500" height="500" />
 
 
 
@@ -60,7 +60,7 @@
  
 
 
-  <a href="https://enzo-md-sessions-generator-1-b158.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  <a href="https://enzo-md-sessions-generator-8ydz.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

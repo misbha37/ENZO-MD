@@ -51,7 +51,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-     *Enzo Tech*
+     *ENZO TECH*
 
 ❒────────────────────❒`;
 
